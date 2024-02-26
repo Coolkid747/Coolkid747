@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 View my primitive app developed in Scratch: https://scratch.mit.edu/projects/333409406/  
 
-  Here's Block Code behind hte app. - https://scratch.mit.edu/projects/333409406/editor/
+  Here's Block Code behind the app. - https://scratch.mit.edu/projects/333409406/editor/
